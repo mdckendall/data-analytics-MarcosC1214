@@ -32,6 +32,7 @@ class Main {
         
       }
       if (input.equals("4")) {
+        System.out.println("Current Students:");
         BufferedReader br = new BufferedReader(new FileReader("names.txt"));
  
     try {
