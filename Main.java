@@ -17,7 +17,6 @@ class Main {
       System.out.println("Press 5 to quit.");
       
       String input = scanner.next();
-      scanner.nextLine();
       
       if (input.equals("1")) {
         System.out.println("$98,345 average salary in South Florida!");
